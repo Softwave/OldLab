@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <meta charset="utf-8">
+  <title>App Name</title>
+  <meta name="description" content="App description">
+  <meta name="author" content="Me">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- FONT -->
+  <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800' rel='stylesheet' type='text/css'>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="css/style.css">
+
+</head>
+
+<body>
+<div id="container">
+	<div id="title">HYPERION</div>
+  <div id="music"></div>
+</div>
+
+
+<!-- THREE -->
+<script src="lib/three.min.js"></script>
+
+<!-- LIB CODE -->
+<script src="lib/stats.min.js"></script>
+<script src="lib/controls/TrackballControls.js"></script>
+<script src="lib/dat.gui.min.js"></script>
+
+<!-- SHADER CODE -->
+<script type="x-shader/x-vertex" id="vertexshader">
+  uniform float time;
+  uniform float displacement;
+  uniform float amplitude; 
+  varying vec3 vNormal;
+
+  void main() {
+    vNormal = normal;
+
+    vec3 newPosition = position + amplitude * normal * vec3(-displacement * sin(time * position.x + position.y + position.z));;
+
+    gl_Position = projectionMatrix * modelViewMatrix * vec4(newPosition, 1.0);
+  }
+</script>
+
+<script type="x-shader/x-fragment" id="fragmentshader">
+  varying vec3 vNormal;
+
+  void main() {
+    gl_FragColor = vec4(abs(1.0 * vNormal), 1.0);
+  }
+</script>
+
+<!-- MAIN CODE -->
+<script src="Audio.js"></script>
+<script src="Main.js"></script>
+</body>
+
+</html>
