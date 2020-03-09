@@ -1,0 +1,1406 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"set",
+				"setText"
+			],
+			[
+				"game",
+				"gameoverTxt"
+			],
+			[
+				"sub",
+				"subMap"
+			],
+			[
+				"add",
+				"addContent"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"uni",
+				"uniqueNoteText"
+			],
+			[
+				"note",
+				"noteStorage"
+			],
+			[
+				"not",
+				"noteStorage"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"link",
+				"linkAttributes"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"item",
+				"itemSearch"
+			],
+			[
+				"pluck",
+				"pluckedNums"
+			],
+			[
+				"filter",
+				"filtered"
+			],
+			[
+				"sort",
+				"sortBy"
+			],
+			[
+				"it",
+				"itemSearch"
+			],
+			[
+				"items",
+				"items"
+			],
+			[
+				"ed",
+				"editedItem"
+			],
+			[
+				"s",
+				"savedThings"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"M",
+				"MenuMusic"
+			],
+			[
+				"J",
+				"JUMPS_ALLOWED"
+			],
+			[
+				"c",
+				"checkPositions"
+			],
+			[
+				"ret",
+				"returnDoor"
+			],
+			[
+				"Set",
+				"setLevel"
+			],
+			[
+				"le",
+				"LevelThing"
+			],
+			[
+				"_msgOpen",
+				"_msgOpenOriginal"
+			],
+			[
+				"_ms",
+				"_msgEnter"
+			],
+			[
+				"_msgEnter",
+				"_msgEnterOriginal"
+			],
+			[
+				"inMenu",
+				"_inMenu"
+			],
+			[
+				"_hud",
+				"_hudLivesNum"
+			],
+			[
+				"gibs",
+				"_gibs"
+			],
+			[
+				"_butt",
+				"_buttonThingy"
+			],
+			[
+				"_bu",
+				"_buttonThingy2"
+			],
+			[
+				"coll",
+				"collectCoin"
+			],
+			[
+				"Data",
+				"DataMapCoins"
+			],
+			[
+				"_msg",
+				"_msgTalk"
+			],
+			[
+				"msg",
+				"_msgTalk"
+			],
+			[
+				"pixe",
+				"_pixels"
+			],
+			[
+				"or",
+				"originalPixels"
+			],
+			[
+				"snd",
+				"sndBleep"
+			],
+			[
+				"_",
+				"_enemygibs"
+			],
+			[
+				"bulle",
+				"_bullets"
+			],
+			[
+				"_gibs",
+				"_gibsParticles"
+			],
+			[
+				"_player",
+				"_playerGroup"
+			],
+			[
+				"_b",
+				"_badbullets	var"
+			],
+			[
+				"bu",
+				"_bullets	var"
+			],
+			[
+				"pla",
+				"_playerKeys	var"
+			],
+			[
+				"sndP",
+				"sndPowerup"
+			],
+			[
+				"number",
+				"numberLevel"
+			],
+			[
+				"numb",
+				"numberBuckets"
+			],
+			[
+				"num",
+				"numberBuckets"
+			],
+			[
+				"buc",
+				"bucket1"
+			],
+			[
+				"gli",
+				"glitchEffect"
+			],
+			[
+				"pause",
+				"pauseGroup"
+			],
+			[
+				"ti",
+				"_tileWidth"
+			],
+			[
+				"_tile",
+				"_tileSheet"
+			],
+			[
+				"flxT",
+				"flxtMessage"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"b",
+				"border"
+			],
+			[
+				"app",
+				"applyForce"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"text",
+				"text-indent"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"backgro",
+				"background-attachment"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"CP",
+				"CPViewMaxYMargin"
+			],
+			[
+				"CPV",
+				"CPViewMaxYMargin"
+			],
+			[
+				"CPVi",
+				"CPViewMinXMargin"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/jc/Documents/GameJamming/brainstorming.txt",
+			"settings":
+			{
+				"buffer_size": 202,
+				"line_ending": "Unix",
+				"name": "* Alien Computer"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 420,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/Main.js",
+			"settings":
+			{
+				"buffer_size": 1049,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/SurfaceState.js",
+			"settings":
+			{
+				"buffer_size": 6185,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/jc/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 311,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/maps/level0.json",
+			"settings":
+			{
+				"buffer_size": 12098,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/SubState.js",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Grunt Build",
+	"command_palette":
+	{
+		"height": 214.0,
+		"selected_items":
+		[
+			[
+				"html5",
+				"Snippet: Simple HTML5 Boilerplate"
+			],
+			[
+				"mit",
+				"Licence Snippet: MIT"
+			],
+			[
+				"html",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"li",
+				"Licence Snippet: MIT"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"button",
+				"Snippet: bs3-button-group"
+			],
+			[
+				"bs3",
+				"Snippet: bs3-input-color"
+			],
+			[
+				"butt",
+				"Snippet: bs3-button-primary"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"colo",
+				"Color picker"
+			],
+			[
+				"color",
+				"Color picker"
+			],
+			[
+				"c",
+				"Color picker"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"fli",
+				"Snippet: flixelEmbed"
+			],
+			[
+				"flixe",
+				"Snippet: flixelEmbed"
+			],
+			[
+				"flixel",
+				"Snippet: flixelEmbed"
+			],
+			[
+				"pure",
+				"Snippet: pureButton"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"col",
+				"Snippet: bs3-col-3"
+			],
+			[
+				"row",
+				"Snippet: bs3-row"
+			],
+			[
+				"image",
+				"Snippet: bs3-image"
+			],
+			[
+				"footer",
+				"Snippet: bs3-panel-footer"
+			],
+			[
+				"conta",
+				"Snippet: bs3-container"
+			],
+			[
+				"nav",
+				"Snippet: bs3-navbar-basic"
+			],
+			[
+				"lore",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"panel",
+				"Snippet: bs3-panel-heading"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"bs",
+				"Snippet: bs3-container"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			]
+		],
+		"width": 601.0
+	},
+	"console":
+	{
+		"height": 118.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/jc/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/jc/Documents/GameJamming/Projects/probe/css/main.css",
+		"/home/jc/Documents/GameJamming/Projects/probe/js/Sub.js",
+		"/home/jc/Documents/GameJamming/Projects/probe/js/Surface.js",
+		"/home/jc/Documents/LD29/game/js/GameState.js",
+		"/home/jc/Documents/LD29/game/js/SubState.js",
+		"/home/jc/Documents/LD29/game/js/Main.js",
+		"/home/jc/Documents/LD29/game/index.html",
+		"/home/jc/Documents/LD29/game/assets/maps/sub.json",
+		"/home/jc/Documents/LD29/game/assets/maps/sub.csv",
+		"/home/jc/Documents/LD29/game/js/phaser.js",
+		"/home/jc/Documents/LD29/game/assets/maps/sub2.csv",
+		"/home/jc/Documents/LD29/devlog.txt",
+		"/home/jc/Documents/LD29/dl/phaser-examples-master/examples/tilemaps/sci fly.js",
+		"/home/jc/Documents/Workspace/GameDev/phaser/minild49/src/main.js",
+		"/home/jc/Documents/Workspace/GameDev/phaser/minild49/src/Level.js",
+		"/home/jc/Documents/LD29/old/src/js/old/boot.js",
+		"/home/jc/Documents/LD29/old/src/js/old/preloader.js",
+		"/home/jc/Documents/LD29/old/src/js/old/menu.js",
+		"/home/jc/Documents/LD29/old/src/js/old/main.js",
+		"/home/jc/Documents/LD29/dl/phaser-examples-master/examples/index.html",
+		"/home/jc/Downloads/Electric/src/Main.as",
+		"/home/jc/Downloads/Electric/src/MenuState.as",
+		"/home/jc/Downloads/Electric/src/PlayState.as",
+		"/home/jc/Documents/Lab/WebDev/project/dist/js/main.js",
+		"/home/jc/Documents/Lab/Junk/test.js",
+		"/home/jc/Dropbox/Personal/ideas.txt",
+		"/home/jc/Documents/Lab/WebDev/project/dist/old.html",
+		"/home/jc/Documents/Lab/WebDev/ratchet/index.html",
+		"/home/jc/Documents/Lab/WebDev/dl/cutjs-master/examples/basic-pinwheel/app.js",
+		"/home/jc/Documents/Lab/WebDev/dl/cutjs-master/examples/basic-pinwheel/index.html",
+		"/home/jc/Documents/Lab/WebDev/dl/cutjs-master/examples/game-tictactoe/app.js",
+		"/home/jc/Documents/Lab/WebDev/dl/cutjs-master/examples/game-tictactoe/index.html",
+		"/home/jc/Documents/Lab/WebDev/dl/cutjs-master/examples/example.css",
+		"/home/jc/Documents/Lab/WebDev/dl/cutjs-master/examples/game-tictactoe/textures.js",
+		"/home/jc/Documents/Lab/WebDev/dl/chocolatechip-ui-master/package.json",
+		"/home/jc/Documents/Lab/WebDev/project/dist/index.html",
+		"/home/jc/Documents/Lab/WebDev/project/dist/css/main.css",
+		"/home/jc/Documents/Lab/WebDev/project/dist/js/jhtml.js",
+		"/home/jc/Documents/Lab/WebDev/project/choc/ios/form-submit.html",
+		"/home/jc/Documents/Lab/WebDev/project/choc/css/main.css",
+		"/home/jc/Documents/Lab/WebDev/project/choc/index.html",
+		"/home/jc/Documents/Lab/WebDev/dl/bootstrap-ios7-1.2.0/dist/css/bootstrap.css",
+		"/home/jc/Documents/Lab/WebDev/project/dist/README",
+		"/home/jc/Documents/Lab/WebDev/project/junk.html",
+		"/home/jc/Documents/Lab/WebDev/project/js/main.js",
+		"/home/jc/Documents/Lab/WebDev/project/css/main.css",
+		"/home/jc/Documents/Lab/WebDev/d3/index.html",
+		"/home/jc/Documents/Lab/WebDev/d3/nm.json",
+		"/home/jc/Documents/Lab/WebDev/d3/unemployment.tsv",
+		"/home/jc/Documents/Lab/WebDev/d3/us.json",
+		"/home/jc/Documents/Lab/WebDev/d3/usold.json",
+		"/home/jc/Documents/Lab/WebDev/d3/dl/tl_2010_35_cousub10/tl_2010_35_cousub10.shp",
+		"/home/jc/Documents/Lab/WebDev/d3/NMCounty_Boundaries/NMCounty_Boundaries.shp",
+		"/home/jc/Documents/Lab/WebDev/project/index.html",
+		"/home/jc/Documents/Lab/WebDev/dl/angular-local-storage-master/demo/demo.html",
+		"/home/jc/Documents/Lab/WebDev/project/devLog.txt",
+		"/home/jc/Documents/Lab/WebDev/project/app/index.html",
+		"/home/jc/Documents/Lab/WebDev/project/app/js/controllers.js",
+		"/home/jc/Documents/Lab/WebDev/project/app/js/filters.js",
+		"/home/jc/Documents/Lab/WebDev/project/app/js/app.js",
+		"/home/jc/Documents/Lab/WebDev/project/package.json",
+		"/home/jc/Documents/Lab/WebDev/project/Gruntfile.js",
+		"/home/jc/Documents/Lab/WebDev/server.js",
+		"/home/jc/Documents/Lab/Ruby/softwave/Softwave.html",
+		"/home/jc/Documents/Lab/Ruby/softwave/_layouts/post.html",
+		"/home/jc/Documents/Lab/Ruby/softwave/_layouts/default.html",
+		"/home/jc/Documents/Lab/Ruby/softwave/index.html",
+		"/home/jc/Documents/Lab/Ruby/softwave/js/code.js",
+		"/home/jc/Documents/Lab/Ruby/softwave/_posts/2014-04-19-welcome-to-jekyll.markdown",
+		"/home/jc/Documents/Lab/Ruby/softwave/Softwave_files/code.js",
+		"/home/jc/Documents/Lab/Ruby/softwave/css/style.css",
+		"/home/jc/Documents/Lab/Ruby/softwave/css/main.css",
+		"/home/jc/Documents/Lab/Ruby/softwave/about.html",
+		"/home/jc/Documents/Lab/Ruby/softwave/_abouts/about.markdown",
+		"/home/jc/Documents/Lab/Ruby/softwave/_config.yml",
+		"/home/jc/Documents/Lab/Node/yo/templates/vue/scratchpad/js/autolink-min.js",
+		"/home/jc/Documents/Lab/Node/yo/templates/vue/scratchpad/js/getExpr.js",
+		"/home/jc/Documents/Lab/Node/yo/templates/vue/scratchpad/js/getExpr.coffee",
+		"/home/jc/Documents/Lab/Node/yo/templates/vue/scratchpad/dl/autolink-js-master/getExpr.coffee",
+		"/home/jc/Documents/Lab/Node/yo/templates/vue/scratchpad/dl/autolink-js-master/autolink.js",
+		"/home/jc/Documents/Lab/Node/yo/templates/vue/scratchpad/junk.html",
+		"/home/jc/Documents/Lab/Node/yo/templates/vue/scratchpad/css/bootstrap-editable.css",
+		"/home/jc/Documents/Lab/Node/yo/templates/vue/scratchpad/js/bootstrap-editable.js",
+		"/home/jc/Documents/Lab/Node/yo/templates/vue/scratchpad/backup/app.js",
+		"/home/jc/Documents/Lab/Node/yo/templates/vue/scratchpad/starter.html",
+		"/home/jc/Documents/Lab/Node/yo/templates/vue/scratchpad/index.html",
+		"/home/jc/Documents/Lab/Node/yo/templates/vue/scratchpad/css/mainoLD.css",
+		"/home/jc/Documents/Lab/Node/yo/templates/vue/scratchpad/js/ui.js",
+		"/home/jc/Documents/Lab/Node/yo/templates/vue/scratchpad/css/main.css",
+		"/home/jc/Documents/Lab/Node/yo/templates/webapp/app/index.html",
+		"/home/jc/Documents/Lab/Node/yo/templates/vue/scratchpad/js/store.js",
+		"/home/jc/Documents/Lab/Node/yo/templates/vue/scratchpad/js/vue.js",
+		"/home/jc/Documents/Lab/Node/yo/templates/vue/scratchpad/js/app.js",
+		"/home/jc/Documents/Lab/Node/yo/templates/vue/test/js/app.js",
+		"/home/jc/Documents/Lab/Node/yo/templates/vue/test/js/main.js",
+		"/home/jc/Documents/Lab/Node/yo/templates/vue/src/vue-master/examples/todomvc/bower_components/todomvc-common/base.js",
+		"/home/jc/Documents/Lab/Node/yo/templates/vue/vue-master/examples/todomvc/index.html",
+		"/home/jc/Documents/Lab/Node/yo/templates/vue/vue-master/examples/todomvc/js/app.js",
+		"/home/jc/Documents/Lab/Node/yo/templates/vue/vue-master/examples/todomvc/js/store.js",
+		"/home/jc/Documents/Lab/Node/yo/templates/vue/vue-master/examples/todomvc/js/routes.js",
+		"/home/jc/Documents/Lab/Node/yo/templates/express/app/views/index.html",
+		"/home/jc/Documents/Lab/Node/yo/templates/express/app/views/partials/main.html",
+		"/home/jc/Documents/Lab/Node/yo/templates/express/lib/controllers/api.js",
+		"/home/jc/Documents/Lab/Node/yo/templates/express/lib/controllers/index.js",
+		"/home/jc/Documents/Lab/Node/yo/templates/express/server.js",
+		"/home/jc/Documents/Lab/Node/yo/templates/express/app/scripts/app.js",
+		"/home/jc/Documents/Lab/Node/yo/templates/express/lib/routes.js",
+		"/home/jc/Documents/Lab/Node/yo/templates/express/lib/config/express.js",
+		"/home/jc/Documents/Lab/Node/yo/templates/express/lib/config/config.js",
+		"/home/jc/Documents/Lab/Node/yo/templates/express/app/scripts/main.js",
+		"/home/jc/Documents/Lab/Node/yo/templates/express/lib/models/thing.js",
+		"/home/jc/Documents/Lab/Node/yo/templates/express/lib/config/dummydata.js",
+		"/home/jc/Documents/Lab/Node/yo/templates/express/test/client/spec/controllers/main.js",
+		"/home/jc/Documents/Lab/Node/yo/templates/express/test/client/runner.html",
+		"/home/jc/Documents/Lab/Node/yo/templates/express/test/server/thing/api.js",
+		"/home/jc/Documents/Lab/Node/yo/templates/express/app/views/partials/navbar.html",
+		"/home/jc/Documents/Lab/Node/yo/templates/express/app/scripts/controllers/main.js",
+		"/home/jc/Documents/Lab/Node/yo/templates/express/app/scripts/controllers/navbar.js",
+		"/home/jc/Documents/Lab/Node/yo/templates/todo/todotodo-bootstrap-master/testNode.js",
+		"/home/jc/Documents/Lab/Node/yo/templates/todo/generator-todo/app/indexold.js",
+		"/home/jc/Documents/Lab/Node/yo/templates/todo/generator-todo/app/index.js",
+		"/home/jc/Documents/Lab/Node/yo/templates/todo/generator-todo/app/templates/_main.js",
+		"/home/jc/Documents/Lab/Node/yo/templates/todo/generator-todo/package.json",
+		"/home/jc/Documents/Lab/Node/yo/templates/todo/generator-todo/app/templates/index.html",
+		"/home/jc/Documents/Lab/Node/yo/templates/todo/generator-todo/app/templates/_main.css",
+		"/home/jc/Documents/Lab/Node/yo/templates/webapp/app/scripts/main.js",
+		"/home/jc/Documents/Lab/Node/yo/templates/webapp/app/styles/custom.css"
+	],
+	"find":
+	{
+		"height": 55.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\"\";\n",
+			"ground",
+			"touchi",
+			"');\n",
+			"editnote",
+			"filter",
+			" \n",
+			"Softwave",
+			"*/\n",
+			"editable-disabled",
+			"editable-c",
+			"editable ",
+			"this.container.",
+			"activate",
+			"toggle",
+			"-->\n",
+			"data",
+			"revers",
+			"reverse",
+			"sort",
+			"({",
+			"\"));\n",
+			"allowed",
+			"sndju",
+			"serialize_param",
+			"param",
+			"update_widget_position",
+			"dragstop",
+			"add",
+			"(el",
+			"stop",
+			"stop\n",
+			"$widgets",
+			"register",
+			"serialize",
+			"changed",
+			"serialize_params",
+			"serialize",
+			"serialize_params",
+			"serialize",
+			"get_widgets_from_DOM",
+			"register",
+			"add_wid",
+			"Error",
+			"monad",
+			"text",
+			"onup",
+			"new playstate",
+			"debug",
+			"default",
+			"background",
+			"whitespace",
+			"player",
+			"SCANLINE_MODE_MEDIUM",
+			"debug",
+			"width",
+			"_restart",
+			"Globals.player",
+			"bullets",
+			"rgbsh",
+			"score",
+			"splitter",
+			"input",
+			"_object",
+			"color",
+			", ",
+			"zapcoo",
+			"sprite",
+			"sprite\n\n",
+			"exportma\nsprite\n",
+			"exportma",
+			"time",
+			".png",
+			"istal",
+			"kill",
+			"counter",
+			"\");\n",
+			"player",
+			"start",
+			"glitch",
+			">\n",
+			"this.touching",
+			"touching",
+			"Triad",
+			";",
+			"();\n",
+			"msgPastor",
+			">\n",
+			");\n",
+			"h4",
+			"d",
+			"css",
+			"    background-attachment: fixed;",
+			"		<",
+			"%;\n",
+			"911821",
+			"Thingy",
+			"\";\n",
+			"cyan",
+			"%;",
+			">\n",
+			"+p"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/jc/Documents/GameJamming/brainstorming.txt",
+					"settings":
+					{
+						"buffer_size": 202,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								202,
+								202
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_name": "* Alien Computer",
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 420,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								240,
+								240
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "js/Main.js",
+					"settings":
+					{
+						"buffer_size": 1049,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								949,
+								949
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "js/SurfaceState.js",
+					"settings":
+					{
+						"buffer_size": 6185,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								672,
+								672
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/home/jc/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 311,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								119,
+								119
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "assets/maps/level0.json",
+					"settings":
+					{
+						"buffer_size": 12098,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5830,
+								5830
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "js/SubState.js",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 201.0
+	},
+	"output.haskell_sublime_load":
+	{
+		"height": 152.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
